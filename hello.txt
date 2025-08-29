@@ -1,2 +1,4 @@
 Hello Git!
 This is a new second line.
+This is my third line.
+
