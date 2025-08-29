@@ -1,5 +1,5 @@
 Hello Git!
-This is a new second line.
+Line second has modified!!
 This is my third line.
 
 New line in feature branch
