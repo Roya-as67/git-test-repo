@@ -3,3 +3,4 @@ Line second has modified!!
 This is my third line.
 
 New line in feature branch
+This is the final line
